@@ -64,15 +64,16 @@ print(cl)
 ```
 ## Output:
 ![SVM For Spam Mail Detection](sam.png)
-
+## data_head():
 ![image](https://github.com/user-attachments/assets/964d58ed-b409-44fd-928b-5d4763c73952)
 
+## data.isnull().sum():
 ![image](https://github.com/user-attachments/assets/7f77482f-3120-4fc7-87e1-8657afab41f4)
-
+## accuracy:
 ![image](https://github.com/user-attachments/assets/eac31935-7418-4223-8652-7c79f8454e16)
-
+## Confusion matrix:
 ![image](https://github.com/user-attachments/assets/549b168e-1c52-41aa-9a4f-c5124b141f2f)
-
+## Classification report:
 ![image](https://github.com/user-attachments/assets/315c4666-5c0f-42f4-b6b6-c2e7823b0c9e)
 
 
