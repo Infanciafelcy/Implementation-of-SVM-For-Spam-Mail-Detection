@@ -63,7 +63,6 @@ print(cl)
 
 ```
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
 ## data_head():
 ![image](https://github.com/user-attachments/assets/964d58ed-b409-44fd-928b-5d4763c73952)
 
